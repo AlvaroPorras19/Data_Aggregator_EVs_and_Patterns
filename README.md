@@ -21,7 +21,7 @@ This repository includes the data about the driving patterns of an EV-fleet for 
     * [Data_d](https://drive.google.com/file/d/16hr-Al2T2gNZ6FNMsi9pxsyLIIaLL8FY/view?usp=sharing).
 
 ## References 📚
-[1] Á. P. Cabrera, R. Fernández-Blanco, J. M. Morales and S. Pineda, "Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty," 2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 2019, pp. 1-6, doi: 10.1109/SEST.2019.8848991.
+[1] Á. P. Cabrera, R. Fernández-Blanco, J. M. Morales and S. Pineda, "Day-ahead Operation of an Aggregator of Electric Vehicles via Optimization under Uncertainty," 2019 International Conference on Smart Energy Systems and Technologies (SEST), Porto, Portugal, 2019, pp. 1-6.
 
 [2]  Á. Porras, R. Fernández-Blanco, J. M. Morales and S. Pineda, "An Efficient Robust Approach to the Day-Ahead Operation of an Aggregator of Electric Vehicles," in IEEE Transactions on Smart Grid, vol. 11, no. 6, pp. 4960-4970, Nov. 2020.
 
